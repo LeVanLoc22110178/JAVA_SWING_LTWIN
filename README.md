@@ -1,1 +1,0 @@
-# JAVA_SWING_LTWIN
